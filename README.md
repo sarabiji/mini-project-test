@@ -114,8 +114,7 @@ Contributions are welcome\!
 
 ## 👨‍💻 Author
 
-Sara Biji 
-Software Engineering Student | Python & Flutter Developer | AI Enthusiast
+**Sara Biji** - Software Engineering Student | Python & Flutter Developer | AI Enthusiast
 
 -----
 
