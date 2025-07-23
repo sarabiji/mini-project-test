@@ -73,7 +73,7 @@ SnapChef combines **ingredient detection**, **recipe discovery**, and a **modern
 
 📸 Screenshots
 
-![WhatsApp Image 2025-07-23 at 21 08 21_e17c9580](https://github.com/user-attachments/assets/79d218e0-8d5c-4f44-9368-38cc5ffa1eae)
+![WhatsApp Image 2025-07-23 at 21 08 21_e17c9580](https://github.com/user-attachments/assets/79d218e0-8d5c-4f44-9368-38cc5ffa1eae =250x250))
 ![WhatsApp Image 2025-07-23 at 21 08 21_ce4ab636](https://github.com/user-attachments/assets/c0e1638a-14e5-40d1-be30-60b326c8e7d9)
 ![WhatsApp Image 2025-07-23 at 21 08 22_2e57a2fb](https://github.com/user-attachments/assets/fbdbc100-1cb2-4d33-920e-f5ca47c999cb)
 ![WhatsApp Image 2025-07-23 at 21 08 22_fc6627ed](https://github.com/user-attachments/assets/9e7b623b-855c-403a-bc0f-bd75a76716ae)
