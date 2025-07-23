@@ -73,13 +73,19 @@ SnapChef combines **ingredient detection**, **recipe discovery**, and a **modern
 
 📸 Screenshots
 
-![WhatsApp Image 2025-07-23 at 21 08 21_e17c9580](https://github.com/user-attachments/assets/79d218e0-8d5c-4f44-9368-38cc5ffa1eae =250x250))
-![WhatsApp Image 2025-07-23 at 21 08 21_ce4ab636](https://github.com/user-attachments/assets/c0e1638a-14e5-40d1-be30-60b326c8e7d9)
-![WhatsApp Image 2025-07-23 at 21 08 22_2e57a2fb](https://github.com/user-attachments/assets/fbdbc100-1cb2-4d33-920e-f5ca47c999cb)
-![WhatsApp Image 2025-07-23 at 21 08 22_fc6627ed](https://github.com/user-attachments/assets/9e7b623b-855c-403a-bc0f-bd75a76716ae)
-![WhatsApp Image 2025-07-23 at 21 08 23_7257b4ca](https://github.com/user-attachments/assets/20f62f8c-18ed-407d-aea8-993a2e6f9ca2)
-![WhatsApp Image 2025-07-23 at 21 08 23_b0e63e46](https://github.com/user-attachments/assets/9256226b-9737-4f80-a5a6-638ad0adaa48)
-![WhatsApp Image 2025-07-23 at 21 08 23_7215a22a](https://github.com/user-attachments/assets/be6dc52d-10ba-4e48-8a68-beecce10cd2f)
+## 📸 Screenshots
+
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/79d218e0-8d5c-4f44-9368-38cc5ffa1eae" alt="SnapChef Screenshot 1" width="200"/>
+  <img src="https://github.com/user-attachments/assets/c0e1638a-14e5-40d1-be30-60b326c8e7d9" alt="SnapChef Screenshot 2" width="200"/>
+  <img src="https://github.com/user-attachments/assets/fbdbc100-1cb2-4d33-920e-f5ca47c999cb" alt="SnapChef Screenshot 3" width="200"/>
+  <img src="https://github.com/user-attachments/assets/9e7b623b-855c-403a-bc0f-bd75a76716ae" alt="SnapChef Screenshot 4" width="200"/>
+  <img src="https://github.com/user-attachments/assets/20f62f8c-18ed-407d-aea8-993a2e6f9ca2" alt="SnapChef Screenshot 5" width="200"/>
+  <img src="https://github.com/user-attachments/assets/9256226b-9737-4f80-a5a6-638ad0adaa48" alt="SnapChef Screenshot 6" width="200"/>
+  <img src="https://github.com/user-attachments/assets/be6dc52d-10ba-4e48-8a68-beecce10cd2f" alt="SnapChef Screenshot 7" width="200"/>
+ 
+</p>
+
 
 -----
 
